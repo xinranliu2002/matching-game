@@ -1,0 +1,22 @@
+[
+    {
+        "image": "images/bertolucci.png",
+        "name": "bertolucci"
+    },
+    {
+        "image": "images/godard.png",
+        "name": "godard"
+    },
+    {
+        "image": "images/kubrick.png",
+        "name": "kubrick"
+    },
+    {
+        "image": "images/louye.png",
+        "name": "louye"
+    },
+    {
+        "image": "images/wang.png",
+        "name": "wang"
+    }
+]
